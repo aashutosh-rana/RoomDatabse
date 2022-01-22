@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomDatabse</string>
+    <string name="enter_the_username_and_password">Enter the Username and Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="insert_credentials">Insert Credentials</string>
+    <string name="dash">- - -</string>
+    <string name="reading_and_displaying_data_from_room">Reading and Displaying Data From Room</string>
+    <string name="click_to_read_credentials_from_room">Click To Read Credentials From Room</string>
+</resources>
